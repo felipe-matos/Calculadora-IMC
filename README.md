@@ -4,7 +4,6 @@ Descrição:
 Este é um aplicativo simples de Calculadora de IMC que permite aos usuários calcular seu Índice de Massa Corporal com facilidade. 
 
 Recursos:
-
 Interface amigável que permite aos usuários inserir sua altura e peso.
 Exibição do resultado do IMC com interpretação (abaixo do peso, peso normal, acima do peso, etc.).
 
