@@ -1,3 +1,4 @@
 # Calculadora-IMC
-![Screenshot_20231029_135846](https://github.com/felipe-matos/Calculadora-IMC/assets/70587403/a4ed956a-5912-4f64-ad0e-abea4210c05d)
-![Screenshot_20231029_135803](https://github.com/felipe-matos/Calculadora-IMC/assets/70587403/8a4df7cb-f2bc-47e9-afde-6df6e2dc40ff)
+![Screenshot_20231029_135846](https://github.com/felipe-matos/Calculadora-IMC/assets/70587403/7df8a005-c189-456a-8d30-ca178b5eaa91)
+![Screenshot_20231029_135803](https://github.com/felipe-matos/Calculadora-IMC/assets/70587403/7caf7a3f-a10a-40fc-a879-8e4adda3f590)
+
